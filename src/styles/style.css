@@ -1,0 +1,15 @@
+
+.mainDisplay{
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    justify-content: space-around;
+    align-items: center;
+    height: 604px;
+}
+.title{
+    color:black;
+}
+.spacing{
+    padding-left: 1rem;
+}
